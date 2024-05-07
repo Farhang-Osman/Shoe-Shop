@@ -1,7 +1,5 @@
 const CostumarReviews = () => {
-  return (
-    <div>CostumarReviews</div>
-  )
-}
+  return <div>CostumarReviews</div>;
+};
 
-export default CostumarReviews
+export default CostumarReviews;
