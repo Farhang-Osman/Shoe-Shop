@@ -12,7 +12,7 @@ const Hero = () => {
     <section
       id='home'
       className='w-full flex xl:flex-row flex-col justify-center 
-                min-h-screen gap-10 max-container border-2 border-green-100'
+                min-h-screen gap-10 max-container'
     >
       <div
         className='relative xl:w-2/5 flex flex-col justify-center 
