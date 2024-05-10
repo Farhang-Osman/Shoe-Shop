@@ -1,5 +1,5 @@
 import {
-  CostumarReviews,
+  CustomerReviews,
   Footer,
   Hero,
   PopularProducts,
@@ -29,7 +29,7 @@ const App = () => (
       <SpecialOffers />
     </section>
     <section className='bg-pale-blue padding'>
-      <CostumarReviews />
+      <CustomerReviews />
     </section>
     <section className='padding-x sm:py-32 py-16 w-full'>
       <Subscribe />

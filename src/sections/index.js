@@ -1,4 +1,4 @@
-import CostumarReviews from './CostumarReviews';
+import CustomerReviews from './CustomarReviews';
 import Footer from './Footer';
 import Hero from './Hero';
 import PopularProducts from './PopularProducts';
@@ -8,7 +8,7 @@ import Subscribe from './Subscribe';
 import SuperQuality from './SuperQuality';
 
 export {
-  CostumarReviews,
+  CustomerReviews,
   Footer,
   Hero,
   PopularProducts,
