@@ -29,7 +29,7 @@ const Footer = () => {
               <div
                 key={icon.alt}
                 className='flex justify-center items-center w-12 h-12 
-                bg-white rounded-full'
+                bg-white rounded-full cursor-pointer'
               >
                 <img
                   src={icon.src}
