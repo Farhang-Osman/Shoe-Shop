@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.0.1](https://github.com/Farhang-Osman/Shoe-Shop/compare/v2.0.0...v2.0.1) (2024-05-14)
+
+
+### Bug Fixes
+
+* fixed links ([6a26389](https://github.com/Farhang-Osman/Shoe-Shop/commit/6a2638917952b9d39ec827bdcfafb45fe70f8490))
+
 ## [2.0.0](https://github.com/Farhang-Osman/Shoe-Shop/compare/v1.0.1...v2.0.0) (2024-05-14)
 
 ## [1.0.1](https://github.com/Farhang-Osman/Shoe-Shop/compare/v1.0.0...v1.0.1) (2024-05-14)
