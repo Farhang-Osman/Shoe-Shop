@@ -13,28 +13,28 @@ import Nav from './Components/Nav';
 const App = () => (
   <main className='relative'>
     <Nav />
-    <section className='xl:padding-l wide:padding-r padding-b'>
+    <section className='snap-start xl:padding-l wide:padding-r padding-b'>
       <Hero />
     </section>
-    <section className='padding'>
+    <section className='snap-start bg-pale-blue padding'>
       <PopularProducts />
     </section>
-    <section className='padding'>
+    <section className='snap-start padding'>
       <SuperQuality />
     </section>
-    <section className='padding'>
+    <section className='snap-start bg-pale-blue padding'>
       <Services />
     </section>
-    <section className='padding'>
+    <section className='snap-start padding'>
       <SpecialOffers />
     </section>
-    <section className='bg-pale-blue padding'>
+    <section className='snap-start bg-pale-blue padding'>
       <CustomerReviews />
     </section>
-    <section className='padding-x sm:py-32 py-16 w-full'>
+    <section className='snap-start padding-x sm:py-32 py-16 w-full'>
       <Subscribe />
     </section>
-    <section className='bg-black padding-x padding-t pb-8'>
+    <section className='snap-start bg-black padding-x padding-t pb-8'>
       <Footer />
     </section>
   </main>
